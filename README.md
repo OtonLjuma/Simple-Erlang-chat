@@ -1,0 +1,3 @@
+#Simple Erlang chat
+
+Simple exercise used for learning purposes...
